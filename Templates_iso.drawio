@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T12:22:38.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1kjx-vTTPNhtAdjJYfhL" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T00:48:46.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qHzeA-gqVEPgJeD4lbJu" version="20.8.19" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,45 @@
         </mxCell>
         <mxCell id="EGAaXhMMhTA3gWOGvbyz-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.56;dx=32.29;notch=0;labelBackgroundColor=#FFFFFF;fontSize=24;strokeColor=#000000;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-19" value="Connecte les machines entre elles dans un réseau local" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="570" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-20" value="Apporte à l&#39;utilisateur les services offerts par le réseau" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="660" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-21" value="Interconnecte différents réseaux entre eux" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="480" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-22" value="Gère les communications de bout en bout" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="390" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-23" value="Etablit une liaison entre deux applications devant coopérer" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-24" value="Offre un support de transmission des données" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="210" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-25" value="Traite les données pour les rendre exploitables par une application" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="425" y="120" width="385" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="EGAaXhMMhTA3gWOGvbyz-26" target="EGAaXhMMhTA3gWOGvbyz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-26" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=none;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="480" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="EGAaXhMMhTA3gWOGvbyz-29" target="EGAaXhMMhTA3gWOGvbyz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-29" value="" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=none;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="575" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;" edge="1" parent="1" source="EGAaXhMMhTA3gWOGvbyz-30" target="EGAaXhMMhTA3gWOGvbyz-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;labelBackgroundColor=none;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="578.6" width="80" height="46.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
