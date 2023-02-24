@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:52:35.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FzpyRTcleZKrTGgllogs" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T13:32:38.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q6kgOEAjhoiB9_s16BKg" version="20.8.22" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="EGAaXhMMhTA3gWOGvbyz-19" value="Connecte les machines entre elles dans un réseau local" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="385" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EGAaXhMMhTA3gWOGvbyz-20" value="Apporte à l&#39;utilisateur les services offerts par le réseau" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Offre un support de transmission des données&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="320" y="660" width="385" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EGAaXhMMhTA3gWOGvbyz-21" value="Interconnecte différents réseaux entre eux" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
@@ -64,10 +64,10 @@
         <mxCell id="EGAaXhMMhTA3gWOGvbyz-23" value="Etablit une liaison entre deux applications devant coopérer" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="320" y="300" width="385" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EGAaXhMMhTA3gWOGvbyz-24" value="Offre un support de transmission des données" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-24" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Apporte à l&#39;utilisateur les services offerts par le réseau&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="385" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EGAaXhMMhTA3gWOGvbyz-25" value="Traite les données pour les rendre exploitables par une application" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="EGAaXhMMhTA3gWOGvbyz-25" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Traite les données pour les rendre exploitables par une application&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontSize=24;fillColor=#f5f5f5;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="385" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EGAaXhMMhTA3gWOGvbyz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;" parent="1" source="EGAaXhMMhTA3gWOGvbyz-26" target="EGAaXhMMhTA3gWOGvbyz-21" edge="1">
